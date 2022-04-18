@@ -1,0 +1,1 @@
+daphne django_server.prod_asgi:application -b 0.0.0.0 -p 8756
